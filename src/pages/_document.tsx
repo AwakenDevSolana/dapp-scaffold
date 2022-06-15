@@ -11,10 +11,9 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-        <link rel="shortcut icon" href="/gogo.png"/>
+        <link rel="shortcut icon" href="/favicon.ico"/>
         </Head>
-            <body>
-
+        <body>
           <Main />
           <NextScript />
         </body>

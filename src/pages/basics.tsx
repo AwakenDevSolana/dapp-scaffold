@@ -6,10 +6,10 @@ const Basics: NextPage = (props) => {
   return (
     <div>
       <Head>
-              <title>Galactic Confederation</title>
+        <title>Solana Scaffold</title>
         <meta
-          name="Staking UGC"
-          content="2 Staking Mechanisms that guarantee passive income for short and long term profits!!"
+          name="description"
+          content="Basic Functionality"
         />
       </Head>
       <BasicsView />

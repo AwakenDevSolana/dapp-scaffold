@@ -6,10 +6,10 @@ const Home: NextPage = (props) => {
   return (
     <div>
       <Head>
-              <title>The United Galactic Confederation</title>
+        <title>Solana Scaffold</title>
         <meta
-          name="United Galactic Confederation"
-                  content="Official DAPP for the United Galactic Confederation!"
+          name="description"
+          content="Solana Scaffold"
         />
       </Head>
       <HomeView />

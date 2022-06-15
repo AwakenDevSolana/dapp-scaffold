@@ -14,7 +14,7 @@ const App: FC<AppProps> = ({ Component, pageProps }) => {
     return (
         <>
           <Head>
-                <title>Galactic Confederation</title>
+            <title>Solana Scaffold Lite</title>
           </Head>
 
           <ContextProvider>
