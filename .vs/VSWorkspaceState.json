@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\stores",
+    "\\src\\views",
+    "\\src\\views\\academy",
+    "\\src\\views\\hackbros",
+    "\\src\\views\\home",
+    "\\src\\views\\rarity",
+    "\\src\\views\\team"
+  ],
+  "SelectedNode": "\\src\\views\\academy\\index.tsx",
+  "PreviewInSolutionExplorer": false
+}

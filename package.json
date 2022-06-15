@@ -1,6 +1,7 @@
 {
   "name": "solana-dapp-next",
   "version": "0.1.0",
+  "homepage": "https://ugco.tech",
   "license": "MIT",
   "private": false,
   "scripts": {

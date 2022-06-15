@@ -38,6 +38,12 @@ export const RequestAirdrop: FC = () => {
             >
                 <span>Airdrop 1 </span>
             </button>
+            <button
+                className="px-8 m-2 btn animate-pulse bg-gradient-to-r from-[#9945FF] to-[#14F195] hover:from-pink-500 hover:to-yellow-500 ..."
+                onClick={onClick}
+            >
+                <span>Airdrop 1 </span>
+            </button>
         </div>
     );
 };
